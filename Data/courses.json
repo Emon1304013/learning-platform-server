@@ -2,6 +2,7 @@
     {
         "id":"01",
         "name":"Python",
+        "img":"https://i.ibb.co/tBsbRf7/python-programming-basic.png",
         "description":"Learn the basics of Python 3, one of the most powerful, versatile, and in-demand programming language today",
         "lessons":"14",
         "difficulty":"Beginner Friendly"
@@ -9,6 +10,7 @@
     {
         "id":"02",
         "name":"Machine Learning",
+        "img":"https://i.ibb.co/kXQ5jV3/1-c-G6-U1qst-YDijh9b-PL42e-Q.jpg",
         "description":"Learn the basics of Machine Learning in this introductory Course",
         "lessons":"13",
         "difficulty":"Intermediate"
@@ -16,6 +18,7 @@
     {
         "id":"03",
         "name":"Cyber Security",
+        "img":"https://i.ibb.co/SscdgtZ/cyber-security-1805632-480.webp",
         "description":"Cybersecurity is a fast-growing field that addresses the security risks of our increasingly connected digital world",
         "lessons":"4",
         "difficulty":"Beginner Friendly"
@@ -23,6 +26,7 @@
     {
         "id":"04",
         "name":"Java",
+        "img":"https://i.ibb.co/bWZgfMY/image-blog-revel-top-java-tools.jpg",
         "description":"Learn to code in Java — a robust programming language used to create software, web and mobile apps, and more.",
         "lessons":"16",
         "difficulty":"Beginner Friendly"
@@ -30,6 +34,7 @@
     {
         "id":"05",
         "name":"Data Science",
+        "img":"https://i.ibb.co/sJd8L0y/big-data-science-analysis-business-technology-concept-virtual-screen-big-data-science-analysis-busin.jpg",
         "description":"Learn Python and SQL and build the skills you need to query, analyze, visualize data - and communicate your findings",
         "lessons":"49",
         "difficulty":"Beginner Friendly"
@@ -37,6 +42,7 @@
     {
         "id":"06",
         "name":"Web Design",
+        "img":"https://i.ibb.co/cxbnmRW/website.jpg",
         "description":"Web Design is essential to bringing a website to life and creating the experience that you want for your end users. Our web design courses will help you polish your HTML and CSS skills while learning about color design, navigation design, and more.",
         "lessons":"18",
         "difficulty":"Beginner Friendly"

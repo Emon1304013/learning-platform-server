@@ -2,7 +2,7 @@
     {
         "id":"01",
         "name":"Python",
-        "description":"If you’re looking for a programming language that’s flexible and easy to read, try learning Python. It’s one of the most popular languages today, and programming in Python is used for everything from web and software development to data science and analytics to quality assurance.",
+        "description":"If you are looking for a programming language that's flexible and easy to read, try learning Python. It's one of the most popular languages today, and programming in Python is used for everything from web and software development to data science and analytics to quality assurance.",
         "img":"https://i.ibb.co/tBsbRf7/python-programming-basic.png",
         "skills":[
             "Write Python 3 programs",
@@ -17,7 +17,7 @@
             },
             {
                 "project_name":"Magic 8-ball",
-                "project_description":"We’ve learned about and explored a powerful tool in Python — control flow! It’s so powerful, in fact, that it can be used to tell someone’s fortune.",
+                "project_description":"We've learned about and explored a powerful tool in Python — control flow! It's so powerful, in fact, that it can be used to tell someone's fortune.",
                 "project_img":"https://i.ibb.co/3yznbvp/img-JS-magic8-Ball.webp"
             }
 
@@ -132,8 +132,8 @@
     {
         "id":"04",
         "name":"Java",
-        "description":"Popular for its versatility and ability to create a wide variety of applications, learning Java opens up your possibilities when coding. With it, you’ll be able to develop large systems, software, and mobile applications — and even create mobile apps for Android. Learn important Java coding fundamentals and practice your new skills with real-world projects.",
-        "img":"",
+        "description":"Popular for its versatility and ability to create a wide variety of applications, learning Java opens up your possibilities when coding. With it, you'll be able to develop large systems, software, and mobile applications — and even create mobile apps for Android. Learn important Java coding fundamentals and practice your new skills with real-world projects.",
+        "img":"https://i.ibb.co/bWZgfMY/image-blog-revel-top-java-tools.jpg",
         "skills":[
             "Build core programming concepts",
             "Learn object-oriented concepts",
@@ -181,7 +181,7 @@
         "id":"05",
         "name":"Data Science",
         "description":"Data Science is one of the most in-demand skillsets that companies are constantly hiring for. This Skill Path will teach you the basics of cleaning, and analyzing, and visualizing data responsibly, and prepare you for a career in data. After this Path, you can move on to one of our Data Scientist Career Paths.",
-        "img":"",
+        "img":"https://i.ibb.co/sJd8L0y/big-data-science-analysis-business-technology-concept-virtual-screen-big-data-science-analysis-busin.jpg",
         "skills":[
             "Unlock the power of data",
             "Build foundation for Data science"
@@ -210,7 +210,7 @@
             },
             {
                 "lesson_name":"Learn SQL",
-                "lesson_summary":"Learn SQL — a popular language that’s used for communicating with databases and working with data."
+                "lesson_summary":"Learn SQL — a popular language that's used for communicating with databases and working with data."
             },
             {
                 "lesson_name":"Python Fundamentals for Data Science (Part I)",
@@ -227,7 +227,7 @@
     {
         "id":"06",
         "name":"Web Design",
-        "description":"One of the best ways to start coding is by building websites. Whether you want to tweak your business’s site, hone your web development skills, or learn to collaborate with developers, this Skill Path will help you get there.",
+        "description":"One of the best ways to start coding is by building websites. Whether you want to tweak your business's site, hone your web development skills, or learn to collaborate with developers, this Skill Path will help you get there.",
         "img":"https://i.ibb.co/cxbnmRW/website.jpg",
         "skills":[
             "Read and Write Code",
