@@ -1,26 +1,44 @@
 [
     {
         "id":"01",
-        "name":"Python"
+        "name":"Python",
+        "description":"Learn the basics of Python 3, one of the most powerful, versatile, and in-demand programming language today",
+        "lessons":"14",
+        "difficulty":"Beginner Friendly"
     },
     {
         "id":"02",
-        "name":"Machine Learning"
+        "name":"Machine Learning",
+        "description":"Learn the basics of Machine Learning in this introductory Course",
+        "lessons":"13",
+        "difficulty":"Intermediate"
     },
     {
         "id":"03",
-        "name":"CyberSecurity"
+        "name":"Cyber Security",
+        "description":"Cybersecurity is a fast-growing field that addresses the security risks of our increasingly connected digital world",
+        "lessons":"4",
+        "difficulty":"Beginner Friendly"
     },
     {
         "id":"04",
-        "name":"Java"
+        "name":"Java",
+        "description":"Learn to code in Java — a robust programming language used to create software, web and mobile apps, and more.",
+        "lessons":"16",
+        "difficulty":"Beginner Friendly"
     },
     {
         "id":"05",
-        "name":"Data Science"
+        "name":"Data Science",
+        "description":"Learn Python and SQL and build the skills you need to query, analyze, visualize data - and communicate your findings",
+        "lessons":"49",
+        "difficulty":"Beginner Friendly"
     },
     {
         "id":"06",
-        "name":"Computer Science"
+        "name":"Web Design",
+        "description":"Web Design is essential to bringing a website to life and creating the experience that you want for your end users. Our web design courses will help you polish your HTML and CSS skills while learning about color design, navigation design, and more.",
+        "lessons":"18",
+        "difficulty":"Beginner Friendly"
     }
 ]

@@ -2,55 +2,273 @@
     {
         "id":"01",
         "name":"Python",
-        "description":"",
-        "img":"",
+        "description":"If you’re looking for a programming language that’s flexible and easy to read, try learning Python. It’s one of the most popular languages today, and programming in Python is used for everything from web and software development to data science and analytics to quality assurance.",
+        "img":"https://i.ibb.co/tBsbRf7/python-programming-basic.png",
+        "skills":[
+            "Write Python 3 programs",
+            "Simplify the code your write",
+            "Take your Skills off-platform"
+        ],
         "projects":[
             {
-                "project_name":"",
-                "project_description":"",
-                "project_img":""
+                "project_name":"Block Letters",
+                "project_description":"Display Initials on the screen in block letters and create ASCII art",
+                "project_img":"https://i.ibb.co/d74fHjW/block-letters.webp"
             },
             {
-                "project_name":"",
-                "project_description":"",
-                "project_img":""
+                "project_name":"Magic 8-ball",
+                "project_description":"We’ve learned about and explored a powerful tool in Python — control flow! It’s so powerful, in fact, that it can be used to tell someone’s fortune.",
+                "project_img":"https://i.ibb.co/3yznbvp/img-JS-magic8-Ball.webp"
             }
 
         ],
         "lesson_details":[
             {
-                "lesson_name":"",
-                "lesson_summary":""
+                "lesson_name":"Hello World",
+                "lesson_summary":"Get started with Python syntax in this lesson and then create a point of sale system for a furniture store"
             },
             {
-                "lesson_name":"",
-                "lesson_summary":""
+                "lesson_name":"Control Flow",
+                "lesson_summary":"Learn how to build control flow into your python code by including if, else, and elif statements. Expect to learn all you need to know about boolean variables and logical operators."
             },
             {
-                "lesson_name":"",
-                "lesson_summary":""
+                "lesson_name":"Lists",
+                "lesson_summary":"Learn about lists, a data structure in Python used to store ordered groups of data."
             },
             {
-                "lesson_name":"",
-                "lesson_summary":""
+                "lesson_name":"Loops",
+                "lesson_summary":"Loops are structures that let you repeat Python code over and over. Learn how to read loops and write them to solve your own problems."
             },
             {
-                "lesson_name":"",
-                "lesson_summary":""
+                "lesson_name":"Functions",
+                "lesson_summary":"Learn about code reuse with Python functions. Apply that knowledge to create functions for famous physics formulas"
             }
         ]
 
     },
+
     {
+        "id":"02",
+        "name":"Machine Learning",
+        "description":"Machine learning, the field of computer science that gives computer systems the ability to learn from data, is one of the hottest topics in computer science. Machine learning is transforming the world: from spam filtering in social networks to computer vision for self-driving cars, the potential applications of machine learning are vast.",
+        "img":"https://i.ibb.co/kXQ5jV3/1-c-G6-U1qst-YDijh9b-PL42e-Q.jpg",
+        "skills":[
+            "Analyze Data set",
+            "Get abled to classify Supervised,unsupervised learning"
+        ],
+        "projects":[
+            {
+                "project_name":"Honey Production",
+                "project_description":"Fit a line to data about the honeybee population decline in the US",
+                "project_img":"https://i.ibb.co/QFZwHSw/honey-production.webp"
+            },
+            {
+                "project_name":"Breast Cancer Classifier",
+                "project_description":"Classify tumors as either malignant or benign using K-nearest Neighbors",
+                "project_img":"https://i.ibb.co/v1hpJ0c/microscope.webp"
+            }
+
+        ],
+        "lesson_details":[
+            {
+                "lesson_name":"Introduction to Machine Learning",
+                "lesson_summary":"What is Machine Learning and how do we use it?"
+            },
+            {
+                "lesson_name":"Linear Regression",
+                "lesson_summary":"Given a set of points, find a line that fits the data best! Even this simple form of regression allows us to predict future points."
+            },
+            {
+                "lesson_name":"Multiple Linear Regression",
+                "lesson_summary":"Multiple Linear Regression uses two or more independent variables to predict the value of the dependent variable."
+            },
+            {
+                "lesson_name":"Yelp Regression Project",
+                "lesson_summary":"Practice your regression skills on a real-world dataset provided by Yelp!"
+            },
+            {
+                "lesson_name":"Classification vs Regression",
+                "lesson_summary":"Learn about the two types of Supervised Learning algorithms, for predicting different kinds of output."
+            }
+        ]
 
     },
+
     {
+        "id":"03",
+        "name":"Cyber Security",
+        "description":"",
+        "img":"https://i.ibb.co/SscdgtZ/cyber-security-1805632-480.webp",
+        "skills":[
+            "Learn basic social engineering techniques",
+            "Identify Cyber Attacks",
+            "Gather Security Information"
+        ],
+        "lesson_details":[
+            {
+                "lesson_name":"Welcome to the Fundamentals of Cybersecurity Skill Path",
+                "lesson_summary":"Start your Cybersecurity journey by learning key fundamentals."
+            },
+            {
+                "lesson_name":"Why Cybersecurity?",
+                "lesson_summary":"Learn about WHY we should care about Cybersecurity as well as some avenues to enter Cybersecurity."
+            },
+            {
+                "lesson_name":"Cyber Attacks",
+                "lesson_summary":"Learn about common Cyber Attacks."
+            },
+            {
+                "lesson_name":"Cybersecurity Assessment and Research",
+                "lesson_summary":"Learn about Threat Actors as well as ways to assess and research security."
+            },
+            {
+                "lesson_name":"Review of Fundamentals of Cybersecurity",
+                "lesson_summary":"You've completed the Fundamentals of Cybersecurity Skill Path!"
+            }
+        ]
 
     },
+
     {
+        "id":"04",
+        "name":"Java",
+        "description":"Popular for its versatility and ability to create a wide variety of applications, learning Java opens up your possibilities when coding. With it, you’ll be able to develop large systems, software, and mobile applications — and even create mobile apps for Android. Learn important Java coding fundamentals and practice your new skills with real-world projects.",
+        "img":"",
+        "skills":[
+            "Build core programming concepts",
+            "Learn object-oriented concepts",
+            "Create Java projects"
+        ],
+        "projects":[
+            {
+                "project_name":"Planting Tree",
+                "project_description":"Write your first Java program from scratch by introducing yourself to users and planting a tree for them. You'll practice creating a class, defining the main method, and organizing print statements.",
+                "project_img":"https://i.ibb.co/hKCbtcy/planting-a-tree-thumbnail.webp"
+            },
+            {
+                "project_name":"Math Magic",
+                "project_description":"It's time to build fluency with operators in Java. In this project, we're going to practice arithmetic in Java so you can hone your skills and feel confident taking them to the real world",
+                "project_img":"https://i.ibb.co/C58Rsng/img-java-math-Magic.webp"
+            }
+
+        ],
+        "lesson_details":[
+            {
+                "lesson_name":"Hello World",
+                "lesson_summary":"Welcome to the world of Java programming! Java is a popular object-oriented programming language that is used in many different industries"
+            },
+            {
+                "lesson_name":"Variables",
+                "lesson_summary":"Learn about datatypes in Java and how we use them. Then, practice your skills with two projects where you create and manipulate variables."
+            },
+            {
+                "lesson_name":"Object Oriented Java",
+                "lesson_summary":"Learn about object-oriented programming in Java. Explore syntax for defining classes and creating instances."
+            },
+            {
+                "lesson_name":"Conditionals and Control Flow",
+                "lesson_summary":"Conditionals and Control flow in Java programs"
+            },
+            {
+                "lesson_name":"Arrays and ArrayLists",
+                "lesson_summary":"Build lists of data with Java arrays and ArrayLists"
+            }
+        ]
 
     },
+
     {
+        "id":"05",
+        "name":"Data Science",
+        "description":"Data Science is one of the most in-demand skillsets that companies are constantly hiring for. This Skill Path will teach you the basics of cleaning, and analyzing, and visualizing data responsibly, and prepare you for a career in data. After this Path, you can move on to one of our Data Scientist Career Paths.",
+        "img":"",
+        "skills":[
+            "Unlock the power of data",
+            "Build foundation for Data science"
+        ],
+        "projects":[
+            {
+                "project_name":"Analyze Hacker News Trends",
+                "project_description":"Query Hacker News data using SQL to discover trends",
+                "project_img":"https://i.ibb.co/k13tdvf/download.jpg"
+            },
+            {
+                "project_name":"A/B testing for Daraaz.com",
+                "project_description":"Analyst the A/B test data from daraaz.com using aggregate measures.",
+                "project_img":"https://i.ibb.co/k13k5Ks/unnamed.webp"
+            }
+
+        ],
+        "lesson_details":[
+            {
+                "lesson_name":"Welcome to Data Science Foundations",
+                "lesson_summary":"Preview what lies ahead on your Data Science Journey"
+            },
+            {
+                "lesson_name":"Principles of Data Literacy",
+                "lesson_summary":"Discover the world of data in this fully conceptual course where you will learn how to think about, visualize, and analyze data."
+            },
+            {
+                "lesson_name":"Learn SQL",
+                "lesson_summary":"Learn SQL — a popular language that’s used for communicating with databases and working with data."
+            },
+            {
+                "lesson_name":"Python Fundamentals for Data Science (Part I)",
+                "lesson_summary":"Build a foundation in programming with Python with a focus on Data Science!"
+            },
+            {
+                "lesson_name":"Python Fundamentals for Data Science (Part II)",
+                "lesson_summary":"Continue building your Python Skills while applying them to real data science challenges including finding and working with real data."
+            }
+        ]
+
+    },
+
+    {
+        "id":"06",
+        "name":"Web Design",
+        "description":"One of the best ways to start coding is by building websites. Whether you want to tweak your business’s site, hone your web development skills, or learn to collaborate with developers, this Skill Path will help you get there.",
+        "img":"https://i.ibb.co/cxbnmRW/website.jpg",
+        "skills":[
+            "Read and Write Code",
+            "Create your own design",
+            "Launch your website"
+        ],
+        "projects":[
+            {
+                "project_name":"Portfolio Website",
+                "project_description":"Build your personal portfolio website using HTML,CSS and JS",
+                "project_img":"https://i.ibb.co/PhLKt6t/all-screens-1.png"
+            },
+            {
+                "project_name":"Colmar Academy",
+                "project_description":"Build Colmar Academy's responsive site from scratch, making trypographic and color design choices on your own.",
+                "project_img":"https://i.ibb.co/M63qh3X/colmar-academy-thumbnail.jpg"
+            }
+
+        ],
+        "lesson_details":[
+            {
+                "lesson_name":"Beginner HTML",
+                "lesson_summary":"In this unit, you will learn the basics of HTML. HTML is a language that provides structure to website content."
+            },
+            {
+                "lesson_name":"Beginner CSS",
+                "lesson_summary":"This unit provides an overview of CSS, the language used to give websites style."
+            },
+            {
+                "lesson_name":"How to Build Websites on Your Own Computer",
+                "lesson_summary":"Get setup to build websites on your own computer"
+            },
+            {
+                "lesson_name":"Intermediate CSS: Colors and Typography",
+                "lesson_summary":"Learn the CSS syntax required to adjust the colors and typography of a website."
+            },
+            {
+                "lesson_name":"Advanced CSS: Flexbox and CSS Transitions",
+                "lesson_summary":"Push your web design skills with more advanced CSS syntax, including the industry standard layout tool Flexbox, and CSS transitions."
+            }
+        ]
 
     }
 ]
