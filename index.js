@@ -22,6 +22,12 @@ app.get('/courses/:id',(req,res)=>{
     courseDetails.find(course => course.id === cid);
     res.send(selected_course);
 })
+app.get('/checkout/:id',(req,res)=>{
+    const cid = req.params.id;
+    const selected_course = 
+    courses.find(course => course.id === cid);
+    res.send(selected_course);
+})
 
 
 app.listen(port, () => {

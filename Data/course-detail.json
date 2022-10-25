@@ -11,11 +11,13 @@
         ],
         "projects":[
             {
+                "id":"1",
                 "project_name":"Block Letters",
                 "project_description":"Display Initials on the screen in block letters and create ASCII art",
                 "project_img":"https://i.ibb.co/d74fHjW/block-letters.webp"
             },
             {
+                "id":"2",
                 "project_name":"Magic 8-ball",
                 "project_description":"We've learned about and explored a powerful tool in Python — control flow! It's so powerful, in fact, that it can be used to tell someone's fortune.",
                 "project_img":"https://i.ibb.co/3yznbvp/img-JS-magic8-Ball.webp"
@@ -58,11 +60,13 @@
         ],
         "projects":[
             {
+                "id":"1",
                 "project_name":"Honey Production",
                 "project_description":"Fit a line to data about the honeybee population decline in the US",
                 "project_img":"https://i.ibb.co/QFZwHSw/honey-production.webp"
             },
             {
+                "id":"2",
                 "project_name":"Breast Cancer Classifier",
                 "project_description":"Classify tumors as either malignant or benign using K-nearest Neighbors",
                 "project_img":"https://i.ibb.co/v1hpJ0c/microscope.webp"
@@ -141,11 +145,13 @@
         ],
         "projects":[
             {
+                "id":"1",
                 "project_name":"Planting Tree",
                 "project_description":"Write your first Java program from scratch by introducing yourself to users and planting a tree for them. You'll practice creating a class, defining the main method, and organizing print statements.",
                 "project_img":"https://i.ibb.co/hKCbtcy/planting-a-tree-thumbnail.webp"
             },
             {
+                "id":"2",
                 "project_name":"Math Magic",
                 "project_description":"It's time to build fluency with operators in Java. In this project, we're going to practice arithmetic in Java so you can hone your skills and feel confident taking them to the real world",
                 "project_img":"https://i.ibb.co/C58Rsng/img-java-math-Magic.webp"
@@ -188,11 +194,13 @@
         ],
         "projects":[
             {
+                "id":"1",
                 "project_name":"Analyze Hacker News Trends",
                 "project_description":"Query Hacker News data using SQL to discover trends",
                 "project_img":"https://i.ibb.co/k13tdvf/download.jpg"
             },
             {
+                "id":"2",
                 "project_name":"A/B testing for Daraaz.com",
                 "project_description":"Analyst the A/B test data from daraaz.com using aggregate measures.",
                 "project_img":"https://i.ibb.co/k13k5Ks/unnamed.webp"
@@ -236,11 +244,13 @@
         ],
         "projects":[
             {
+                "id":"1",
                 "project_name":"Portfolio Website",
                 "project_description":"Build your personal portfolio website using HTML,CSS and JS",
                 "project_img":"https://i.ibb.co/PhLKt6t/all-screens-1.png"
             },
             {
+                "id":"2",
                 "project_name":"Colmar Academy",
                 "project_description":"Build Colmar Academy's responsive site from scratch, making trypographic and color design choices on your own.",
                 "project_img":"https://i.ibb.co/M63qh3X/colmar-academy-thumbnail.jpg"
